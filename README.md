@@ -1,0 +1,1 @@
+This project consists of a search history system developed in Python, using the List data structure to manage records. The technical focus is on the efficient manipulation of dynamic arrays, ensuring that searched terms are stored, organized chronologically, and retrieved with low latency, applying fundamental concepts of programming logic and data collection management.
